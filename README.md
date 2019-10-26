@@ -1,1 +1,1 @@
-##The purpose of this project is to implement a vision based Real-Time Surgery-Tools Recognition system to assist the Operating Surgeon.
+#Real-time Surgical Tools Recognition in Total Knee Arthroplasty Using Deep Neural Networks
